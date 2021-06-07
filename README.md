@@ -1,5 +1,6 @@
 # B27
 Proyek HTML CSS Grup B27
+Pages : https://brotherdrew20.github.io/B27/
 
 Anggota Grup B-27 :
 1. Enrico Sinaga
