@@ -189,7 +189,7 @@ header .container {
 }
 
 footer {
-  height: 100px;
+  height: auto;
   background-color: rgb(29, 29, 29);
   border-top-left-radius: 8px;
   border-top-right-radius: 8px;
