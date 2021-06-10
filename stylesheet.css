@@ -172,6 +172,10 @@ header .container {
   line-height: 2;
 }
 
+.member-wrapper .member i, .member-wrapper .member a {
+  display: inline;
+}
+
 @media all and (max-width: 849px) {
   .member-wrapper {
     padding: 15px 10px 15px 10px;
