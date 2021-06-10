@@ -174,8 +174,15 @@ header .container {
   line-height: 2;
 }
 
-.member-wrapper .member i, .member-wrapper .member a {
+.member-wrapper .member i,
+.member-wrapper .member a {
   display: inline;
+  opacity: 1;
+  transition: 0.3s;
+}
+
+.member-wrapper .member a:hover {
+  opacity: 0.5;
 }
 
 @media all and (max-width: 724px) {
