@@ -52,10 +52,12 @@ header .container {
   padding: 25px;
   opacity: 1;
   transition: 0.3s;
+  font-size: 15px;
 }
 
 .header-right ul li:hover {
   opacity: 0.5;
+  font-size: 20px;
 }
 
 .mobile {
