@@ -64,7 +64,7 @@ header .container {
   display: none;
 }
 
-@media all and (max-width: 849px) {
+@media all and (max-width: 724px) {
   .desktop {
     display: none;
   }
@@ -136,7 +136,7 @@ header .container {
   line-height: 2;
 }
 
-@media all and (max-width: 849px) {
+@media all and (max-width: 724px) {
   .about-wrapper {
     padding: 15px 10px 15px 10px;
   }
@@ -178,7 +178,7 @@ header .container {
   display: inline;
 }
 
-@media all and (max-width: 849px) {
+@media all and (max-width: 724px) {
   .member-wrapper {
     padding: 15px 10px 15px 10px;
   }
